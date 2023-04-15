@@ -5,17 +5,6 @@ Etheremon is an exciting battle system game built on the Ethereum blockchain tha
 What makes Etheremon truly special is the use of cutting-edge machine learning technology to provide players with a unique and engaging gaming experience. The game features an AI opponent that players can battle against, which uses PyTorch to learn actions and provide a more challenging experience over time. With this innovative technology, players can enjoy a game that is both fun and intellectually stimulating. So why not join the adventure today and see what kind of amazing monsters and encounters you can discover while testing your battle skills against an ever-evolving AI opponent!
 </br></br>
 
-## How to Play
-
-To play Etheremon, follow these steps:
-
-1. Install MetaMask or another compatible Ethereum wallet.
-2. Navigate to the Etheremon website.
-3. Create a new account and select a character to play as.
-4. Use the arrow keys to navigate your character around the map.
-5. Encounter monsters as you explore the world, and use your character's abilities to defeat them.
-6. Use the game's AI opponent to battle against for an additional challenge.
-
 ## Project Structure
 
 The Etheremon project is structured as follows:
@@ -34,3 +23,14 @@ To get started with Etheremon, follow these steps:
 4. Initialize the auto-generated files by running yarn initialize in the root directory.
 5. Initialize the PRIVATE_KEY environment variable with the default Anvil private key by running echo "PRIVATE_KEY=0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80" > packages/contracts/.env.
 6. Use the yarn dev command in the root directory to start the game locally.
+
+## How to Play
+
+To play Etheremon, follow these steps:
+
+1. Install MetaMask or another compatible Ethereum wallet.
+2. Navigate to the Etheremon website.
+3. Create a new account and select a character to play as.
+4. Use the arrow keys to navigate your character around the map.
+5. Encounter monsters as you explore the world, and use your character's abilities to defeat them.
+6. Use the game's AI opponent to battle against for an additional challenge.
