@@ -16,7 +16,7 @@ To play Etheremon, follow these steps:
 5. Encounter monsters as you explore the world, and use your character's abilities to defeat them.
 6. Use the game's AI opponent to battle against for an additional challenge.
 
-</br></br>
+</br>
 
 ## Project Structure
 
