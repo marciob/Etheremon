@@ -20,9 +20,9 @@ To get started with Etheremon, follow these steps:
 1. Clone the Etheremon repository to your local machine.
 2. Navigate to the root directory of the project and run `yarn install` to install all dependencies.
 3. Use the `yarn dev` command in the root directory of the project to start the game.
-4. Initialize the auto-generated files by running yarn initialize in the root directory.
-5. Initialize the PRIVATE_KEY environment variable with the default Anvil private key by running echo "PRIVATE_KEY=0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80" > packages/contracts/.env.
-6. Use the yarn dev command in the root directory to start the game locally.
+4. Initialize the auto-generated files by running `yarn initialize` in the root directory.
+5. Initialize the PRIVATE_KEY environment variable with the default Anvil private key by running `echo "PRIVATE_KEY=0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80" > packages/contracts/.env`.
+6. Use the `yarn dev` command in the root directory to start the game locally.
 
 ## How to Play
 
